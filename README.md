@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivianne Miranda</h1>
-<h3 align="center">A Backend developer from Brazil</h3>
+<h3 align="center">A Computer Engineering student and backend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Node.js, Python e Testes Automatizados.**
 
