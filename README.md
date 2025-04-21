@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Vivianne Miranda, a passionate software developer and tech enthusiast. I currently work as a Software Developer at CI&T.
+I'm Vivianne Miranda, a passionate software developer and tech enthusiast.
 With over 4 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 ## 🚀 About Me
